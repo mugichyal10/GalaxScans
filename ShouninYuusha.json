@@ -85,12 +85,68 @@
         "GALAX Scans": "/proxy/api/mangadex/chapter/a3058f62-7e56-4f6e-87b0-d21224bfd3f4"
       }
     },
+    "11": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1724108474",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/9aca9e18-b58e-4c6f-b1d0-271ff8b9d92e"
+      }
+    },
+    "12": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1724108499",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/6275b79c-a45e-463c-bfde-8561734e2ee7"
+      }
+    },
+    "13": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1724108518",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/77ad7641-a6e1-476b-81d3-c1cf43718578"
+      }
+    },
+    "14": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1724108532",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/a89a87b2-b2e4-4f06-8979-f0da5bb2c0fb"
+      }
+    },
+    "15": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1724108552",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/7608ef77-09ef-483d-94b2-6f64daf629ab"
+      }
+    },
+    "16": {
+      "title": "",
+      "volume": "4",
+      "last_updated": "1724108592",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/b3019e16-79dc-47d3-ab4e-4a7d20c4f5cd"
+      }
+    },
     "10.5": {
       "title": "",
       "volume": "2",
       "last_updated": "1724098859",
       "groups": {
         "GALAX Scans": "/proxy/api/mangadex/chapter/838d9e90-6cd3-4f63-9566-2453a60a9095"
+      }
+    },
+    "15.5": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1724108580",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/de479902-145b-4ead-bcc4-01b8ae230bfa"
       }
     }
   }
