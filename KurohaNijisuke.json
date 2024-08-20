@@ -4,5 +4,46 @@
   "artist": "Shiraume Nazuna",
   "author": "Narita Ryohgo",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3nn9ymxzoR8nTWutpoASY3dnoORnLVLpMToGXmYr5IVNkqUfE_alfmUssIMgO0evJoO9BP_NJLxOIKL-XJijpRL8BHjUXedqBOhjnxLoGa9-8awDveRy-rZsTwdoGfKgugxqe04280IUgrOVzt8jKKTyDa6_v2-WEGFS6K__g3WrUJ1gAqU7B-rvK/w340/cv3.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Reunião.",
+      "volume": "1",
+      "last_updated": "1724145605",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/bfdd7ab9-1604-4ea8-ae1a-b38eec4d98da"
+      }
+    },
+    "2": {
+      "title": "Acelerando.",
+      "volume": "1",
+      "last_updated": "1724145622",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/0727e368-b9ce-4bd2-92a7-78a04c644096"
+      }
+    },
+    "3": {
+      "title": "Inspeção.",
+      "volume": "1",
+      "last_updated": "1724145643",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/6256b6ef-68f3-477c-8560-622ae35760d5"
+      }
+    },
+    "4": {
+      "title": "Irmãs.",
+      "volume": "1",
+      "last_updated": "1724145674",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/52b5885a-7ba5-4e0e-946b-83507ffde906"
+      }
+    },
+    "5": {
+      "title": "O falecido,",
+      "volume": "2",
+      "last_updated": "1724145696",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/57c405ce-11c2-4a78-b743-5061971c7ec2"
+      }
+    }
+  }
 }
