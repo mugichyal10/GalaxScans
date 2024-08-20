@@ -4,5 +4,54 @@
   "artist": "Nishikida Keishi",
   "author": "Nishikida Keishi",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSV58gohzOMA0UvrQkTgleOHA0_4nXtYWMKC_0jJcVPJciA1zS2hQNQkux1ORg5TJjMTFaTijoIT_dznIFo3Ht9rppLcpvrcJ4_e4Rfsf9Yyn9jryg_u2KnJGC-2YanLwm7eo0hAPsNnrviOTgVG1jRsr8dT5mAagjebnk4zFGz3MJPYwzQ_lpOU6d/w340/cv3.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Relatório médico de Uenohara Rinko,",
+      "volume": "1",
+      "last_updated": "1724145357",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/ee688acf-a850-4af6-ae48-a9025e1c53bb"
+      }
+    },
+    "2": {
+      "title": "Uenohara Rinko está em dilema.",
+      "volume": "1",
+      "last_updated": "1724145406",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/72150166-0c47-43e5-bbdb-9799ad194201"
+      }
+    },
+    "3": {
+      "title": "Conhecendo o pai.",
+      "volume": "1",
+      "last_updated": "1724145433",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/3144694e-e28a-4966-94fd-29eafa308d3f"
+      }
+    },
+    "4": {
+      "title": "Quando você olha para aquele que ama.",
+      "volume": "1",
+      "last_updated": "1724145451",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/dc825eb2-9609-4371-ab5f-7ac4585ddbc9"
+      }
+    },
+    "5": {
+      "title": "Depois da escola com a Tomori-san.",
+      "volume": "1",
+      "last_updated": "1724145485",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/f056b857-a511-4c66-9589-9a8905727cad"
+      }
+    },
+    "6": {
+      "title": "Quando três garotos do ensino médio se juntam.",
+      "volume": "1",
+      "last_updated": "1724145515",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/e718e018-712e-4fcc-b67a-6b4ae9b7cecf"
+      }
+    }
+  }
 }
