@@ -327,7 +327,7 @@
     },
     "41": {
       "title": "Wild Tempest.",
-      "volume": "3",
+      "volume": "8",
       "last_updated": "1724112793",
       "groups": {
         "GALAX Scans": "/proxy/api/mangadex/chapter/3edcdd94-ac9e-4515-9994-a9084a36a106"
@@ -335,10 +335,18 @@
     },
     "42": {
       "title": "Garm I",
-      "volume": "",
+      "volume": "9",
       "last_updated": "1724870390",
       "groups": {
         "GALAX Scans": "/proxy/api/mangadex/chapter/d4e75538-a0ee-4ddc-a15a-4970c409be6f"
+      }
+    },
+    "43": {
+      "title": "Garm II",
+      "volume": "9",
+      "last_updated": "1731191618",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/1fb0ec25-ef00-4c0f-98cb-388220d4b59a"
       }
     },
     "18.1": {
