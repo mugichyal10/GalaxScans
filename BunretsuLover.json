@@ -156,6 +156,22 @@
       "groups": {
         "GALAX Scans": "/proxy/api/mangadex/chapter/97e945b5-5f18-43be-9b79-45ab367f9a30"
       }
+    },
+    "20": {
+      "title": "Batalha",
+      "volume": "3",
+      "last_updated": "1737270718",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/29ba571f-51b7-4621-a003-b093dcb0b4d4"
+      }
+    },
+    "21": {
+      "title": "Memória",
+      "volume": "3",
+      "last_updated": "1737270734",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/7a91f8b3-244e-42ec-8a47-918bb71ca6e4"
+      }
     }
   }
 }
