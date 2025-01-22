@@ -132,6 +132,22 @@
       "groups": {
         "GALAX Scans": "/proxy/api/mangadex/chapter/b08b3742-7197-4e53-b689-d676f313e33c"
       }
+    },
+    "17": {
+      "title": "Capítulo 17",
+      "volume": "3",
+      "last_updated": "1737504793",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/3511cd9c-8ce1-4f28-b4b0-4f6db99300c3"
+      }
+    },
+    "18": {
+      "title": "Capítulo 18",
+      "volume": "3",
+      "last_updated": "1737504829",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/3511cd9c-8ce1-4f28-b4b0-4f6db99300c3"
+      }
     }
   }
 }
