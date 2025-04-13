@@ -148,6 +148,22 @@
       "groups": {
         "GALAX Scans": "/proxy/api/mangadex/chapter/3511cd9c-8ce1-4f28-b4b0-4f6db99300c3"
       }
+    },
+    "19": {
+      "title": "Capítulo 19",
+      "volume": "3",
+      "last_updated": "1744542078",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/dfc3af25-f8aa-4630-859e-2740d6f7c4c5"
+      }
+    },
+    "20": {
+      "title": "Capítulo 20",
+      "volume": "3",
+      "last_updated": "1744542128",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/3ce26321-a286-4928-ae49-d51aee4caf72"
+      }
     }
   }
 }
