@@ -485,6 +485,38 @@
         "GALAX Scans": "/proxy/api/mangadex/chapter/91a0a308-2b56-4aea-aa76-840e39786f08"
       }
     },
+    "61": {
+      "title": "61",
+      "volume": "7",
+      "last_updated": "1746219444",
+      "groups": {
+        "GALAX Scans": "/proxy/api/mangadex/chapter/b2b0a822-845a-4bc4-b1ae-c0ea9281cb29"
+      }
+    },
+    "62": {
+      "title": "62",
+      "volume": "5",
+      "last_updated": "1746219461",
+      "groups": {
+        "GALAX Scans": [
+          "https://cdn.imgchest.com/files/7ogcbjgpkky.jpg",
+          "https://cdn.imgchest.com/files/7kzcagd8bx7.jpg",
+          "https://cdn.imgchest.com/files/y2pckn2aod7.jpg",
+          "https://cdn.imgchest.com/files/7lxcpze3d57.jpg",
+          "https://cdn.imgchest.com/files/4jdcvmkzjl4.jpg",
+          "https://cdn.imgchest.com/files/yq9c38daex4.jpg",
+          "https://cdn.imgchest.com/files/yd5ceoq3rw4.jpg",
+          "https://cdn.imgchest.com/files/yrgcnvr5z24.jpg",
+          "https://cdn.imgchest.com/files/7lxcpze3dm7.jpg",
+          "https://cdn.imgchest.com/files/4jdcvmkzjp4.jpg",
+          "https://cdn.imgchest.com/files/yd5ceoq3m54.jpg",
+          "https://cdn.imgchest.com/files/7mmc9mogno7.jpg",
+          "https://cdn.imgchest.com/files/7w6c2pbnqny.jpg",
+          "https://cdn.imgchest.com/files/4gdcx8d9ml4.jpg",
+          "https://cdn.imgchest.com/files/45xcvn6m8d7.jpg"
+        ]
+      }
+    },
     "39.5": {
       "title": "Auto-controle.",
       "volume": "5",
