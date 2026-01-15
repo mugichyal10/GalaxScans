@@ -90,7 +90,7 @@
       "volume": "",
       "last_updated": "1724110937",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/9c818404-2ae1-4a7a-b0fd-99325b442a80"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/9rydnl6rd4k"
       }
     },
     "12": {
@@ -98,7 +98,7 @@
       "volume": "",
       "last_updated": "1724110946",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/da13babc-cb2c-4699-9cb5-e06539686643"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/qe4gpv5wo4j"
       }
     },
     "13": {
@@ -106,7 +106,7 @@
       "volume": "",
       "last_updated": "1724110955",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/11e5e75d-ebbe-4f7f-9e09-9e4610440110"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/m9yxdx89m4q"
       }
     },
     "14": {
@@ -114,7 +114,7 @@
       "volume": "",
       "last_updated": "1724110964",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/4edee452-6396-4f8c-9504-6c550cd5c5fc"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/md7o5zqaa4p"
       }
     },
     "15": {
@@ -122,7 +122,7 @@
       "volume": "",
       "last_updated": "1724110972",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/d4f49e0d-5d80-45c9-8862-751f4d65ffec"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/n87wqzx937x"
       }
     },
     "16": {
@@ -130,7 +130,7 @@
       "volume": "",
       "last_updated": "1724110983",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/b08b3742-7197-4e53-b689-d676f313e33c"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/qb4zm685gyj"
       }
     },
     "17": {
@@ -138,7 +138,7 @@
       "volume": "3",
       "last_updated": "1737504793",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/3511cd9c-8ce1-4f28-b4b0-4f6db99300c3"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/wl7l5z2w64x"
       }
     },
     "18": {
@@ -146,7 +146,7 @@
       "volume": "3",
       "last_updated": "1737504829",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/3511cd9c-8ce1-4f28-b4b0-4f6db99300c3"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/6eyr5rmne7p"
       }
     },
     "19": {
@@ -154,7 +154,7 @@
       "volume": "3",
       "last_updated": "1744542078",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/dfc3af25-f8aa-4630-859e-2740d6f7c4c5"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/9p4nkgjkz4n"
       }
     },
     "20": {
@@ -162,7 +162,15 @@
       "volume": "3",
       "last_updated": "1744542128",
       "groups": {
-        "GALAX Scans": "/proxy/api/mangadex/chapter/3ce26321-a286-4928-ae49-d51aee4caf72"
+        "GALAX Scans": "/proxy/api/imgchest/chapter/5xy2nz8njyl"
+      }
+    },
+    "21": {
+      "title": "Capítulo 21",
+      "volume": "",
+      "last_updated": "1768470625",
+      "groups": {
+        "GALAX Scans": "/proxy/api/imgchest/chapter/ej7mvzlvb7d"
       }
     }
   }
